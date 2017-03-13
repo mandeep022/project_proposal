@@ -1,0 +1,34 @@
+DESCRIPTION:
+             I would like to create an app on HOME CARE. This app gives you complete knowledge regarding
+             any injury as well as how to take care of your newly born baby. It also includes information
+             for old age group regarding their health.
+             
+OBJECTIVE:  
+             My goal is to make the life easy for old age group and to give useful knowledge
+             regarding newly born babies to parents.
+
+PLATFORM:            
+             This app will runs both on iOS and on Android also.
+        
+WHY CREATING THIS APP: 
+          1. I am creating this app because in the modern era, both the father and mother are
+             working, sometimes a father has to taken care of his child. If he does not have any
+             knowledge then he can get knowledge from this app and also watch different experiences 
+             that are shared by another persons regarding taking care of babies.
+          2. Another reason is for helping old age group, if they need any information regarding their health
+             as well as any kind of help that they want, they can just simply get it from this app.
+
+MAKE SOME PART OF MY LIFE: 
+             It will make some part of my life in such a way that, it gives me complete knowledge regarding 
+             the injuries and precautions for that particular injuries. It will also includes an ancient and modern
+             tips to get rid of any type of injury.
+             
+WHAT PROBLEMS DOES IT SOLVE?:
+          1. It is helpful if a father whose wife is not at home for some reasons,he needs to take care of 
+             his baby then he can take help from this app regarding at what time he should give food to his baby,
+             what are the utilities for baby? If he wants nanny service, he can also hire a nanny with the help of
+             this app.
+          2. If an old person does not find any care taker, he/she can hire a care taker with the help of "HOME CARE" 
+             app in very easy way and without facing any difficulty. I solve their problem and make their life better.
+          3. Sometimes after any type of surgery an old people does not get proper care and nutritious diet. This app 
+             will also solve their problem and give them a complete nutritious diet after that particular surgery.
